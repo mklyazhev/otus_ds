@@ -1,1 +1,1 @@
-Репозиторий с домашними работами по курсу "Профессия Data Science" от Otus.
+Data Science course homework repository
